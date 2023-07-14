@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodinwasuoi.github.io/sitemap.xml
